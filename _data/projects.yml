@@ -1,0 +1,8 @@
+- name: GitHub Actions Test
+  image: /assets/images/aysgithubactiontest.png
+  link: https://github.com/niunmango/ays-githubactionstest
+  description: Test repo in GitHub for GitHub Actions
+- name: Static Web Programming
+  image: /assets/images/PELW-ejemplosClase.png
+  link: https://github.com/niunmango/PELW
+  description: Repo for some class examples
