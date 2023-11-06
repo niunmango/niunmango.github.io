@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jekyll-seo-tag
 
 languages: ["en", "es"]
 exclude_from_localizations: ["javascript", "images", "css"]

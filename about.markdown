@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Acerca de
+title: Proyectos
 permalink: /about/
 ---
 
-Estoy viendo qué onda, mientras tanto: [repo niunmango en Github](https://github.com/niunmango/)
+[Mi repositorio en GitHub](https://github.com/niunmango/)
 
