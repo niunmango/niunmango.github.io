@@ -1,4 +1,12 @@
-- name: Puente Ferrocarretero
+- name: Bridge
   image: /assets/images/IMG_6355.jpg
-  link: https://es.wikipedia.org/wiki/Puente_ferroviario_Carmen_de_Patagones-Viedma
-  description: A bridge over the Rio Negro - Argentina
+  link: /assets/images/IMG_6355.jpg
+  description: A bridge over the Rio Negro at Viedma, Argentina
+- name: Penguin
+  image: /assets/images/penguin.jpg
+  link: /assets/images/penguin.jpg
+  description: A penguin comming out of the sea
+- name: Sunset
+  image: /assets/images/sunset.jpg
+  link: /assets/images/sunset.jpg
+  description: Sunset by the seashore at Bahia Creek, Argentina
